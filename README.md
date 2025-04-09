@@ -22,5 +22,6 @@ Mask
 
 Human
 ## 📹 Demo Video
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](D:\ppe video.mp4)
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)]([🎥 Watch the Video](ppe%20video.mp4)
+)
 
