@@ -23,6 +23,5 @@ Mask
 Human
 ## 📹 Demo Video
 
-ffmpeg -i "D:\ppe video.mp4" -vf "fps=10,scale=800:-1" "ppe-video.gif"
-
+[🎥 Watch the Video](https://drive.google.com/file/d/1kk1FWtCjIG6xGvuAD0RJI7ZnWW5et0Te/view)
 
