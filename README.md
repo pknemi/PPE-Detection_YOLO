@@ -23,6 +23,10 @@ Mask
 Human
 ## 📹 Demo Video
 [![Watch the Video](https://drive.google.com/thumbnail?id=1kk1FWtCjIG6xGvuAD0RJI7ZnWW5et0Te)](https://drive.google.com/file/d/1kk1FWtCjIG6xGvuAD0RJI7ZnWW5et0Te/view)
+<a href="https://drive.google.com/file/d/1kk1FWtCjIG6xGvuAD0RJI7ZnWW5et0Te/view">
+    <img src="https://drive.google.com/thumbnail?id=1kk1FWtCjIG6xGvuAD0RJI7ZnWW5et0Te" width="600">
+</a>
+
 
 
 [🎥 Watch the Video](https://drive.google.com/file/d/1kk1FWtCjIG6xGvuAD0RJI7ZnWW5et0Te/view)
